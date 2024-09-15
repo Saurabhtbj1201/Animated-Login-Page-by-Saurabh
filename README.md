@@ -23,7 +23,7 @@
     <h2>Setup Instructions:</h2>
     <p>To view or run this project, follow the steps below:</p>
     <ol>
-        <li>Clone the repository: <code>git clone https://github.com/yourusername/animated-login-page.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/saurabhtbj1201/animated-login-page.git</code></li>
         <li>Open the project folder and double-click the <code>index.html</code> file to view the login page in your browser.</li>
     </ol>
     <h2>Usage:</h2>
